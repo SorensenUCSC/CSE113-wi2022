@@ -1,0 +1,25 @@
+title: "CSE113, Spring 2021"
+description: "Parallel and Concurrent Programming"
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+paginate: 5 # number of posts to show
+paginate_path: /page:num/
+
+repository: "SorensenUCSC/CSE113-2021"
+
+baseurl: "/CSE113-2021"
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+
