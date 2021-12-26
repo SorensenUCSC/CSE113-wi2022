@@ -7,7 +7,7 @@ layout: single
 ### Welcome to **CSE113:** _Parallel and Concurrent Programming_, Winter 2022 Quarter at UCSC!
 
 - **Instructor:** [Tyler Sorensen](https://users.soe.ucsc.edu/~tsorensen/)
-- **Time:** Mondays, Wednesdays and Fridays: 1:30 - 2:35 pm
+- **Time:** Mondays, Wednesdays and Fridays: 1:20 - 2:25 pm
 - **Location:** Virtual for the first 2 weeks, then Engineer 2 194
 - **Contact:** \<first name\>.\<last name\>@ucsc.edu
 
