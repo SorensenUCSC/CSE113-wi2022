@@ -117,7 +117,8 @@ There will be two asynchronous tests in this course: a midterm and a final. The 
 
 You will get the test as pdf worksheet and have a set time to complete it. You have 1 week for the midterm, and you have 12 hours for the final. 
 
-The midterm will be given halfway through the class: on TODO; and the final will be given on the day that our final is scheduled for Thursday, March 17, from 4 pm to 7 pm.
+The midterm will be given halfway through the class: assigned on Monday, Feb. 7 and due on Feb. 14. 
+The final will be given on Thursday, March 17.
 
 I will design the tests to take ~120 minutes. These are open note/book/internet tests. However, it is not open friend or question. That is, while the test is active, you are not allowed to discuss the test with another person (either in the class or online). For example, you *can* google concepts that are on the test. You *cannot* post a test question to stackoverflow.
 
