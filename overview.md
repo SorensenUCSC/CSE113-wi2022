@@ -87,11 +87,11 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA Office Hours:
 
-Reese will update this 
+TBD
 
 ### Mentoring Hours:
 
-Tim and Sanya will update this
+TBD
 
 ## Asynchronous Communication
 
