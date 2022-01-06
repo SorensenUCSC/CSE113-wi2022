@@ -87,11 +87,23 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA Office Hours:
 
-TBD
+Reese will hold hybrid office hours on Wednesdays from 2:30 to 4:30 PM. Location is TBD
 
 ### Mentoring Hours:
 
-TBD
+Sanya will hold 1-1 tutoring hours primarily in-person (when we return). Location is TBD. 
+
+* Monday 4:00 - 5:00 PM
+* Friday 3:30 - 4:30 PM
+
+_Sanya will be asynchronous until Jan. 10. Please ask questions on Piazza and she will answer._
+
+Tim will hold 1-1 tutoring hours primarily remotely
+
+* Tuesday 2:00 - 3:00 PM
+* Thursday 2:00 - 3:00 PM
+
+
 
 ## Asynchronous Communication
 
