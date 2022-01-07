@@ -27,6 +27,10 @@ Develop normally. When you're ready to run your code inside the container, make 
 ```
  docker run -v "$(pwd)":/assignments -it reeselevine/cse113:latest
 ```
+Note: If you're using CMD on Windows (not Powershell), replace this command with:
+```
+docker run -v %cd%:/assignments -it reeselevine/cse113:latest
+```
 You should be running inside the container at this point. Running `ls` should list your files. At any point, to exit the container just type `exit`.
 
 At this point, you can test that your code works correctly by following the instructions on the homework to run it.
