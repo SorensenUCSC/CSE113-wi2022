@@ -87,7 +87,7 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA Office Hours:
 
-Reese will hold hybrid office hours on Wednesdays from 2:30 to 4:30 PM. Location is TBD
+Reese will hold hybrid office hours on Wednesdays from 2:30 to 4:30 PM. Zoom link will be available on Piazza, and room will be BE-153A when in person instruction resumes.
 
 ### Mentoring Hours:
 
