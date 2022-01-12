@@ -15,7 +15,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Wed, Jan. 5      | Arch and Compiler Background 1  |  [slides](lectures/CSE113Jan5_wi2022.pdf)  | Appendix B
 | Fri, Jan. 7      | Arch and Compiler Background 2  |  [slides](lectures/CSE113Jan7_wi2022.pdf)  | Appendix B
 | Mon, Jan. 10     | Instruction Level Parallelism 1  |  [slides](lectures/CSE113Jan10_wi2022.pdf) | Class slides
-| Wed, Jan. 12     | Instruction Level Parallelism 2 and C++ threads  | | Class Slides
+| Wed, Jan. 12     | Instruction Level Parallelism 2 and C++ threads  | [slides](lectures/CSE113Jan12_wi2022.pdf) | Class Slides
 
 ### Module 2: Mutual Exclusion
 
