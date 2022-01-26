@@ -25,7 +25,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Wed, Jan. 19     | Principles of Mutual Exclusion 2  | [slides](lectures/CSE113Jan19_wi2022.pdf) | Chapter 2
 | Fri, Jan. 21     | Mutual Exclusion in Practice 1    | [slides](lectures/CSE113Jan21_wi2022.pdf) | Chapter 7 - 7.5
 | Mon, Jan. 24     | Mutual Exclusion in Practice 2    | [slides](lectures/CSE113Jan24_wi2022.pdf) | Chapter 7.5 - end
-| Wed, Jan. 26     | Specialized Mutual Exclusion 1    | | Chapter 8
+| Wed, Jan. 26     | Specialized Mutual Exclusion 1    | [slides](lectures/CSE113Jan26_wi2022.pdf) | Chapter 8
 | Fri, Jan. 28     | Specialized Mutual Exclusion 1    | | Chapter 8
 
 ### Module 3: Concurrent Data Structures
