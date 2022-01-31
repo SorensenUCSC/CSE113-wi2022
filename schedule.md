@@ -32,12 +32,12 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Wed, Feb. 2      | Principles of Concurrent Objects I   |  | Chapter 3
+| Wed, Feb. 2      | Principles of Concurrent Objects I   | [slides](lectures/CSE113Jan31_wi2022.pdf) | Chapter 3
 | Fri, Feb. 4      | Principles of Concurrent Objects II  |  | Chapter 3
-| Mon, Feb. 7      | Concurrent Linked-List Set           |  | Chapter 10
-| Wed, Feb. 9      | Concurrent Queues                    |  | Class Slides
-| Fri, Feb. 11     | Work Stealing 1                      |  | Class Slides
-| Mon, Feb. 14     | Work Stealing 2                      |  | Class Slides
+| Mon, Feb. 7      | Work Stealing 1                      |  | Chapter 10
+| Wed, Feb. 9      | Work Stealing 2                      |  | Class Slides
+| Fri, Feb. 11     | Concurrent Linked-List Set           |  | Class Slides
+| Mon, Feb. 14     | Concurrent Queues                    |  | Class Slides
 
 ### Module 4: Reasoning about Concurrency
 
