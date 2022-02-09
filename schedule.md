@@ -36,8 +36,8 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Wed, Feb. 2      | Principles of Concurrent Objects II  |  [slides](lectures/CSE113Feb2_wi2022.pdf) | Chapter 3
 | Fri, Feb. 4      | Specialized Queues                      |  [slides](lectures/CSE113Feb4_wi2022.pdf) | Class slides
 | Mon, Feb. 7      | Work Stealing                       | [slides](lectures/CSE113Feb7_wi2022.pdf) | Chapter 10
-| Wed, Feb. 9      | Concurrent Linked-List Set           | [slides](lectures/CSE113Feb9_wi2022.pdf)  | Class Slides
-| Fri, Feb. 11     | Concurrent Queues                    |  | Class Slides
+| Wed, Feb. 9      |Work Stealing 2           | [slides](lectures/CSE113Feb9_wi2022.pdf)  | Class Slides
+| Fri, Feb. 11     | Concurrent Sets                    |  | Class Slides
 
 ### Module 4: Reasoning about Concurrency
 
