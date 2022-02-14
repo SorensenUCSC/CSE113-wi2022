@@ -38,12 +38,13 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Mon, Feb. 7      | Work Stealing                       | [slides](lectures/CSE113Feb7_wi2022.pdf) | Chapter 10
 | Wed, Feb. 9      |Work Stealing 2           | [slides](lectures/CSE113Feb9_wi2022.pdf)  | Class Slides
 | Fri, Feb. 11     | Concurrent Sets                    | [slides](lectures/CSE113Feb11_wi2022.pdf) | Class Slides
+| Mon, Feb. 14     |  Concurrent Sets 2   | [slides](lectures/CSE113Feb14_wi2022.pdf) | Class Slides
+
 
 ### Module 4: Reasoning about Concurrency
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Mon, Feb. 14     |  TBA   |  | 
 | Wed, Feb. 16     |  Memory Consistency Models 1   |  | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
 | Fri, Feb. 18     |  Memory Consistency Models 2   |  | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
 | Wed, Feb. 23     |  Barriers                      |  | Chapter 17 
