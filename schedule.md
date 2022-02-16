@@ -45,7 +45,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Wed, Feb. 16     |  Barriers                      | [slides](lectures/CSE113Feb16_wi2022.pdf) | Chapter 17id=2088916) 
+| Wed, Feb. 16     |  Barriers                      | [slides](lectures/CSE113Feb16_wi2022.pdf) | Chapter 17
 | Fri, Feb. 18     |  Memory Consistency Models 1   |  | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
 | Wed, Feb. 23     |  Memory Consistency Models 2   |  | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
 | Fri, Feb. 25     |  Forward progress 1            |  | Class Slides
