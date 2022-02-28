@@ -49,7 +49,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Fri, Feb. 18     |  Memory Consistency Models 1   |  [slides](lectures/CSE113Feb18_wi2022.pdf)| [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
 | Wed, Feb. 23     |  Memory Consistency Models 2   |  [slides](lectures/CSE113Feb23_wi2022.pdf)| [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916) 
 | Fri, Feb. 25     |  Forward progress 1            |  [slides](lectures/CSE113Feb25_wi2022.pdf)| Class Slides
-| Mon, Feb. 28     |  Forward progress 2            |  | Class Slides
+| Mon, Feb. 28     |  Forward progress 2            |  [slides](lectures/CSE113Feb28_wi2022.pdf)| Class Slides
 
 
 ### Module 5: Heterogeneous Computing
