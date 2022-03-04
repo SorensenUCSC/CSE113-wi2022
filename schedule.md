@@ -57,7 +57,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
 | Wed, March 2     | Intro to GPUs and Javascript  | [slides](lectures/CSE113March2_wi2022.pdf) | Class Slides
-| Fri, March 4     | Javascript parallelism 1  |  | Class Slides
+| Fri, March 4     | Javascript parallelism 1  |  [slides](lectures/CSE113March4_wi2022.pdf) | Class Slides
 | Mon, March 7     | GPU Programming 1         |  | CUDA By Example Chapter 1
 | Wed, March 9     | Intro to WebGPU           |  | Class Slides
 | Fri, March 11    | Advanced GPU Programming  |  | CUDA By Example Chapter 3-4
