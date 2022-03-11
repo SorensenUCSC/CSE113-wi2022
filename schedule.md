@@ -60,7 +60,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Fri, March 4     | Javascript parallelism 1  |  [slides](lectures/CSE113March4_wi2022.pdf) | Class Slides
 | Mon, March 7     | GPU Programming 1         | [slides](lectures/CSE113March7_wi2022.pdf) | CUDA By Example Chapter 1
 | Wed, March 9     | GPU Programming 2          | [slides](lectures/CSE113March9_wi2022.pdf) | CUDA By Example Chapter 3-4
-| Fri, March 11    | Web GPU as it applies to Homework 5  |  | Class slides
+| Fri, March 11    | Web GPU as it applies to Homework 5  | [slides](lectures/CSE113March11_wi2022.pdf) | Class slides
 
 
 
